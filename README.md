@@ -1,5 +1,5 @@
 ### 👋
-- 🔭 I’m currently working as SQA Engineer
+- 🔭 I’m currently working as an SQA Engineer/Scrum Master
 - 🌱 I’m currently learning Postman, Selenium, Manual Testing
 - 👯 I’m looking to collaborate on Web and Mobile Application Projects.
 - 💬 Ask me about SDLC, HCI, SPM
