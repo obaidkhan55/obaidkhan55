@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Postman, Selenium, Manual Testing
 - 👯 I’m looking to collaborate on Web and Mobile Application Projects.
 - 💬 Ask me about SDLC, HCI, SPM
-- 📫 How to reach me: linkedin.com/in/obaidkhan55/
+- 📫 How to reach me: obaid.khan@productnox.dev
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I'm Selenophile
 
