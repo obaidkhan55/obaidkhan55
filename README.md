@@ -5,7 +5,7 @@
 - 💬 Ask me about SDLC, HCI, SPM
 - 📫 How to reach me: linkedin.com/in/obaidkhan55/
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I Love Mountains.
+- ⚡ Fun fact: I'm Selenophile
 
 <!--
 **obaidkhan55/obaidkhan55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
